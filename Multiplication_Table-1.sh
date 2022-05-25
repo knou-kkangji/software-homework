@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo Multiplication Table
-for a in 1 2 3 4 5 6 7 8 9
+for a in 2 3 4 5 6 7 8 9
 do
         for b in 1 2 3 4 5 6 7 8 9
         do
